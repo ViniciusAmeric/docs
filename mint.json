@@ -22,7 +22,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Dashboardinho",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
@@ -33,13 +33,13 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentacao",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
       "name": "Community",
-      "icon": "slack",
+      "icon": "github",
       "url": "https://mintlify.com/community"
     },
     {
